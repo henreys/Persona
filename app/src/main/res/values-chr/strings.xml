@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Apellido">Last name</string>
+    <string name="Bailar">dance</string>
+    <string name="Edad">age</string>
+    <string name="Nombre">name</string>
+    <string name="Programar">program</string>
+    <string name="REGISTRO">registry</string>
+    <string name="borrar">delete</string>
+    <string name="leer">read</string>
+    <string name="registrar">registry</string>
+    <string name="Registro">registry</string>
+</resources>
